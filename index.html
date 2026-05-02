@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#111118">
+<title>RAS Setlist</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon-192.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-192.svg">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<!-- Song List View -->
+<div id="song-list-view">
+  <header class="list-header">
+    <h1>RAS Setlist</h1>
+    <button id="settings-btn" class="icon-btn" aria-label="設定">⚙</button>
+  </header>
+  <ul id="song-list"></ul>
+</div>
+
+<!-- Teleprompter View -->
+<div id="teleprompter-view" class="hidden">
+  <div id="lyrics-container"></div>
+  <div id="controls">
+    <button id="btn-back" class="ctrl-btn" aria-label="返回歌單">◀</button>
+    <button id="btn-play" class="ctrl-btn" aria-label="播放/暫停">▶</button>
+    <button id="btn-slower" class="ctrl-btn" aria-label="減速">−</button>
+    <span id="speed-label">1.0x</span>
+    <button id="btn-faster" class="ctrl-btn" aria-label="加速">+</button>
+    <button id="btn-font-down" class="ctrl-btn" aria-label="縮小字體">A↓</button>
+    <button id="btn-font-up" class="ctrl-btn" aria-label="放大字體">A↑</button>
+    <button id="btn-theme" class="ctrl-btn" aria-label="切換主題">☀</button>
+  </div>
+</div>
+
+<!-- Settings Modal -->
+<div id="settings-modal" class="hidden">
+  <div class="modal-content">
+    <h2>歌曲設定</h2>
+    <div id="settings-list"></div>
+    <button id="settings-close" class="ctrl-btn">關閉</button>
+  </div>
+</div>
+
+<script src="songs.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
