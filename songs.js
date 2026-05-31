@@ -474,5 +474,110 @@ Fight with ココロと Fight with カラダで<br>
 <ruby>最高<rt>さいこう</rt></ruby>の<ruby>瞬間<rt>しゅんかん</rt></ruby>を Ever… <ruby>勝利<rt>しょうり</rt></ruby>の<ruby>旗<rt>はた</rt></ruby>を<ruby>振<rt>ふ</rt></ruby>れ！<br>
 </div>
 `
+  },
+  {
+    id: "howling-ambition",
+    title: "HOWLING AMBITION",
+    bpm: 136,
+    duration: 258,
+    html: `
+<div class="section">
+<span class="w">Still not enough！</span>Still not enough！<br>
+<span class="w">Still not enough！</span>Still not enough！<br>
+<span class="w">Still not enough！</span>Still not enough！<br>
+<span class="w">Still not enough！</span>Still not enough！<br>
+</div>
+
+<div class="section">
+Watch out！ <ruby>喰<rt>く</rt></ruby>うか<ruby>喰<rt>く</rt></ruby>われるか<br>
+<ruby>本能<rt>ほんのう</rt></ruby>が<ruby>叩<rt>たた</rt></ruby>き<ruby>出<rt>だ</rt></ruby>すアンサーで Shout！ <ruby>堂々<rt>どうどう</rt></ruby><ruby>歌<rt>うた</rt></ruby>うのさ<br>
+<span class="w">(Let's hang out！)</span><ruby>抑<rt>おさ</rt></ruby>えきれない<br>
+<span class="w">(Let's hang out！)</span><ruby>譲<rt>ゆず</rt></ruby>らない<br>
+<ruby>殴<rt>なぐ</rt></ruby>り<ruby>合<rt>あ</rt></ruby>おうぜ <ruby>音楽<rt>おんがく</rt></ruby>で<br>
+</div>
+
+<div class="section">
+<span class="w"><ruby>挑発<rt>ちょうはつ</rt></ruby>ノって<ruby>乗<rt>の</rt></ruby>りこなしちゃって</span><br>
+<span class="w"><ruby>何度<rt>なんど</rt></ruby>だって<ruby>超越<rt>ちょうえつ</rt></ruby> (Bash, bash)</span><br>
+<span class="w"><ruby>遺伝子<rt>いでんし</rt></ruby>レベルで <ruby>匂<rt>にお</rt></ruby>わせちゃって</span><br>
+<span class="w">クレイジーな<ruby>人生<rt>じんせい</rt></ruby> (Bash, bash)</span><br>
+Blast！Blast！Blast！Give me more！<br>
+Blast！Blast！Blast！Give me more！<br>
+Blast！<span class="w">Rat-a-tat！</span><br>
+Blast！Blast！<span class="w">Rat-a-tat！</span>Give me more！<br>
+Blast！<span class="w">Rat-a-tat！</span>Blast！<span class="w">Rat-a-tat！</span>Blast！<span class="w">Rat-a-tat！</span><br>
+</div>
+
+<div class="section">
+I'm No.1！！<span class="w">(Hi！！)</span>I'm No.1！！<span class="w">(Hi！！)</span><br>
+<ruby>有無<rt>うむ</rt></ruby>を<ruby>言<rt>い</rt></ruby>わせない<ruby>輝<rt>かがや</rt></ruby>きで <span class="w">(C'mon！)</span><br>
+I'm No.1！！<span class="w">(Hi！！)</span>I'm No.1！！<span class="w">(Hi！！)</span><br>
+ステージ <ruby>視線<rt>しせん</rt></ruby> <ruby>心<rt>こころ</rt></ruby> <ruby>奪<rt>うば</rt></ruby>い<ruby>尽<rt>つ</rt></ruby>くして<br>
+<span class="w">(Wow wo wow) Bring the heat, Feel the beat</span><br>
+<span class="w">(Wow wo wow)</span> <ruby>思<rt>おも</rt></ruby>い<ruby>知<rt>し</rt></ruby>らせろ<br>
+<span class="w">(Wow wo wow)</span> <ruby>己<rt>おのれ</rt></ruby>そのものを<br>
+Complete freedom <span class="w">(Hi！！)</span> Over the world <span class="w">(Hi！！)</span><br>
+No.1！！<br>
+</div>
+
+<div class="section">
+Watch out！ <ruby>最強<rt>さいきょう</rt></ruby>で<ruby>最高<rt>さいこう</rt></ruby>ってそんなのは<ruby>当<rt>あ</rt></ruby>たり<ruby>前<rt>まえ</rt></ruby><br>
+くれてやるさ お<ruby>望<rt>のぞ</rt></ruby>みならば<br>
+<span class="w">(Let's hang out！)</span><ruby>尽<rt>つ</rt></ruby>きない<br>
+<span class="w">(Let's hang out！)</span><ruby>朽<rt>く</rt></ruby>ちない<br>
+<ruby>殴<rt>なぐ</rt></ruby>り<ruby>合<rt>あ</rt></ruby>おうぜ <ruby>音楽<rt>おんがく</rt></ruby>で<br>
+</div>
+
+<div class="section">
+<span class="w"><ruby>何処<rt>どこ</rt></ruby>までだって<ruby>行<rt>い</rt></ruby>けちゃうんだって</span><br>
+<span class="w"><ruby>堪<rt>たま</rt></ruby>んねーな<ruby>運命<rt>うんめい</rt></ruby> (Bash, bash)</span><br>
+<span class="w"><ruby>喰<rt>く</rt></ruby>っちゃ<ruby>歌<rt>うた</rt></ruby>って<ruby>喰<rt>く</rt></ruby>っちゃ<ruby>歌<rt>うた</rt></ruby>って</span><br>
+<span class="w">いつの<ruby>間<rt>ま</rt></ruby>にか<ruby>天辺<rt>てっぺん</rt></ruby> (Bash, bash)</span><br>
+Blast！Blast！Blast！Give me more！<br>
+Blast！Blast！Blast！Give me more！<br>
+Blast！<span class="w">Rat-a-tat！</span><br>
+Blast！Blast！<span class="w">Rat-a-tat！</span>Give me more！<br>
+Blast！<span class="w">Rat-a-tat！</span>Blast！<span class="w">Rat-a-tat！</span>Blast！<span class="w">Rat-a-tat！</span><br>
+</div>
+
+<div class="section">
+I'm No.1！！<span class="w">(Hi！！)</span>I'm No.1！！<span class="w">(Hi！！)</span><br>
+<ruby>打<rt>う</rt></ruby>てば<ruby>響<rt>ひび</rt></ruby>く この<ruby>愉快<rt>ゆかい</rt></ruby>さで <span class="w">(C'mon！)</span><br>
+I'm No.1！！<span class="w">(Hi！！)</span>I'm No.1！！<span class="w">(Hi！！)</span><br>
+<ruby>嫌<rt>いや</rt></ruby>と<ruby>言<rt>い</rt></ruby>うほど <ruby>存在<rt>そんざい</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>して<br>
+<span class="w">(Wow wo wow) Give it all you've got</span><br>
+<span class="w">(Wow wo wow)</span> <ruby>誰<rt>だれ</rt></ruby>よりも<ruby>強<rt>つよ</rt></ruby>く<br>
+<span class="w">(Wow wo wow)</span> <ruby>思<rt>おも</rt></ruby>う<ruby>存分<rt>ぞんぶん</rt></ruby><br>
+Complete freedom <span class="w">(Hi！！)</span> Over the world <span class="w">(Hi！！)</span><br>
+No.1！！<br>
+</div>
+
+<div class="section">
+Rat-a-tat…<br>
+<span class="w">もっと<ruby>寄越<rt>よこ</rt></ruby>せよ <ruby>言葉<rt>ことば</rt></ruby>よりも<ruby>雄弁<rt>ゆうべん</rt></ruby>な<ruby>音<rt>おと</rt></ruby></span><br>
+Listen up！<br>
+<span class="w"><ruby>飾<rt>かざ</rt></ruby>んなくても<ruby>生身<rt>なまみ</rt></ruby>でブランド <ruby>必聴<rt>ひっちょう</rt></ruby>の<ruby>衝動<rt>しょうどう</rt></ruby></span><br>
+Listen up！<br>
+</div>
+
+<div class="section">
+I'm No.1！！<span class="w">(Hi！！)</span>I'm No.1！！<span class="w">(Hi！！)</span><br>
+<ruby>有無<rt>うむ</rt></ruby>を<ruby>言<rt>い</rt></ruby>わせない<ruby>輝<rt>かがや</rt></ruby>きで <span class="w">(C'mon！)</span><br>
+I'm No.1！！<span class="w">(Hi！！)</span>I'm No.1！！<span class="w">(Hi！！)</span><br>
+ステージ <ruby>視線<rt>しせん</rt></ruby> <ruby>心<rt>こころ</rt></ruby> <ruby>奪<rt>うば</rt></ruby>い<ruby>尽<rt>つ</rt></ruby>くして<br>
+<span class="w">(Wow wo wow) Bring the heat, Feel the beat</span><br>
+<span class="w">(Wow wo wow)</span> <ruby>思<rt>おも</rt></ruby>い<ruby>知<rt>し</rt></ruby>らせろ<br>
+<span class="w">(Wow wo wow)</span> <ruby>己<rt>おのれ</rt></ruby>そのものを<br>
+Complete freedom <span class="w">(Hi！！)</span> Over the world <span class="w">(Hi！！)</span><br>
+No.1！！<br>
+</div>
+
+<div class="section">
+<span class="w">Still not enough！</span>Still not enough！<br>
+<span class="w">Still not enough！</span>Still not enough！<br>
+<span class="w">Still not enough！</span>Still not enough！<br>
+<span class="w">Still not enough！</span>Still not enough！<br>
+</div>
+`
   }
 ];
